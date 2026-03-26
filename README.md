@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Desenvolvedor Junior Full Stack** com experiência em desenvolvimento de aplicações web modernas. Possuo sólida formação em **Análise e Desenvolvimento de Sistemas**, com foco em criar soluções eficientes, escaláveis e centradas no usuário.
+Sou **Desenvolvedor Júnior Full Stack** com experiência em desenvolvimento de aplicações web modernas. Possuo sólida formação em **Análise e Desenvolvimento de Sistemas**, com foco em criar soluções eficientes, escaláveis e centradas no usuário.
 
 ### Expertise:
 - ✅ **Frontend**: HTML, CSS, JavaScript, Bootstrap, ReactJS
@@ -28,7 +28,11 @@ Sou **Desenvolvedor Junior Full Stack** com experiência em desenvolvimento de a
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WillamsRamos&show_icons=true&count_private=true&hide_border=true&title_color=b955fa&icon_color=b955fa&text_color=c9d1d9&bg_color=0d1117" alt="Willams Ramos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillamsRamos&layout=compact&hide_border=true&title_color=b955fa&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillamsRamos&layout=compact&hide_border=true&title_color=b955fa&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=WillamsRamos&hide_border=true&title_color=b955fa&text_color=c9d1d9&bg_color=0d1117" alt="Wakatime Stats" />
 </div>
 
 ---
