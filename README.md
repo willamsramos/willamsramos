@@ -5,7 +5,7 @@
 <div align="center">
   <p>
     <strong>📍 Paulista, PE</strong> • 
-    <strong>📱 (81) 9-966309620</strong>
+    <strong>📱 (81) 99663-09620</strong>
   </p>
 </div>
 
@@ -13,12 +13,12 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Desenvolvedor Júnior Full Stack** com experiência em desenvolvimento de aplicações web modernas. Possuo sólida formação em **Análise e Desenvolvimento de Sistemas**, com foco em criar soluções eficientes, escaláveis e centradas no usuário.
+Sou **Desenvolvedor Junior Full Stack** com experiência em desenvolvimento de aplicações web modernas. Possuo sólida formação em **Análise e Desenvolvimento de Sistemas**, com foco em criar soluções eficientes, escaláveis e centradas no usuário.
 
 ### Expertise:
 - ✅ **Frontend**: HTML, CSS, JavaScript, Bootstrap, ReactJS
 - ✅ **Backend**: Java com Spring Boot
-- ✅ **Banco de Dados**: MySQL e Postgres
+- ✅ **Banco de Dados**: MySQL
 - ✅ **Integração Full Stack**: Backend + Frontend
 - ✅ **Portfólio**: Projetos Reais
 
