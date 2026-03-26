@@ -13,12 +13,12 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Desenvolvedor Junior Full Stack** com experiência em desenvolvimento de aplicações web modernas. Possuo sólida formação em **Análise e Desenvolvimento de Sistemas**, com foco em criar soluções eficientes, escaláveis e centradas no usuário.
+Sou **Desenvolvedor Júnior Full Stack** com experiência em desenvolvimento de aplicações web modernas. Possuo sólida formação em **Análise e Desenvolvimento de Sistemas**, com foco em criar soluções eficientes, escaláveis e centradas no usuário.
 
 ### Expertise:
 - ✅ **Frontend**: HTML, CSS, JavaScript, Bootstrap, ReactJS
 - ✅ **Backend**: Java com Spring Boot
-- ✅ **Banco de Dados**: MySQL
+- ✅ **Banco de Dados**: MySQL e Postgres
 - ✅ **Integração Full Stack**: Backend + Frontend
 - ✅ **Portfólio**: Projetos Reais
 
