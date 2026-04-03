@@ -89,6 +89,6 @@ Confira meus projetos no [GitHub](https://github.com/WillamsRamos) e veja exempl
 
 ---
 
-<p align="center"><strong>💡 Sempre aberto para colaborações e novas oportunidades!</strong><br><em>📧 Entre em contato: willamsramos@hotmail.com</em></p>
+<p align="center"><strong>💡 Sempre aberto para colaborações e novas oportunidades!</strong><br><em>📧 Entre em contato: willamsramos82@hotmail.com</em></p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=b955fa&height=120&section=footer)
