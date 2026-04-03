@@ -21,16 +21,22 @@ Sou **Desenvolvedor Júnior Full Stack** com experiência em desenvolvimento de 
 
 ## 📊 Estatísticas GitHub
 
-| [![Willams Ramos github stats](https://github-readme-stats.vercel.app/api?username=WillamsRamos&show_icons=true&include_all_commits=true&hide_border=true&title_color=b955fa&icon_color=b955fa&text_color=c9d1d9&bg_color=0d1117)](https://github.com/WillamsRamos) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WillamsRamos&layout=compact&hide_border=true&title_color=b955fa&text_color=00bfbf&bg_color=0d1117&langs_count=8)](https://github.com/WillamsRamos) |
-| :---: | :---: |
-
-### 🏆 Troféus GitHub
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WillamsRamos&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&title=Stars,Commits,PullRequest,Issues&row=1&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">
+  <a href="https://github.com/WillamsRamos">
+    <img height="180" alt="Willams Ramos GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WillamsRamos&show_icons=true&include_all_commits=true&hide_border=true&title_color=b955fa&icon_color=b955fa&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/WillamsRamos">
+    <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WillamsRamos&layout=compact&hide_border=true&title_color=b955fa&text_color=00bfbf&bg_color=0d1117&langs_count=8&cache_seconds=86400" />
+  </a>
+</p>
 
 ### 🔥 Streak de Contribuição
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WillamsRamos&theme=radical&hide_border=true&background=0d1117&stroke=b955fa&ring=b955fa&fire=00bfbf&currStreakLabel=b955fa)](https://git.io/streak-stats)
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=WillamsRamos&theme=radical&hide_border=true&background=0d1117&stroke=b955fa&ring=b955fa&fire=00bfbf&currStreakLabel=b955fa" />
+  </a>
+</p>
 
 ---
 
@@ -38,17 +44,27 @@ Sou **Desenvolvedor Júnior Full Stack** com experiência em desenvolvimento de 
 
 ### 🌐 Frontend
 
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg) ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg) ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+<p align="center">
+  <img width="40" height="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" height="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" height="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img width="40" height="40" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" />
+  <img width="40" height="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</p>
 
 ### ⚙️ Backend & Databases
 
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ![Spring Boot](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg) ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
+<p align="left">
+  <img width="40" height="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" height="40" alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img width="40" height="40" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</p>
 
 ---
 
 ## 💼 Contato & Redes
 
-<p align="center">
+<p align="left">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willams-ramos-84a9b9208)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillamsRamos)
